@@ -1,1 +1,1 @@
-# HEP-teor-a-con-sympy
+# HEP teoria con sympy
